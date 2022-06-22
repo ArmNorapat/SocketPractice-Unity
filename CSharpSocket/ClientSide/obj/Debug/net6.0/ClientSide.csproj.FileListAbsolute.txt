@@ -1,0 +1,15 @@
+S:\SocketPractice\CSharpSocket\ClientSide\bin\Debug\net6.0\ClientSide.exe
+S:\SocketPractice\CSharpSocket\ClientSide\bin\Debug\net6.0\ClientSide.deps.json
+S:\SocketPractice\CSharpSocket\ClientSide\bin\Debug\net6.0\ClientSide.runtimeconfig.json
+S:\SocketPractice\CSharpSocket\ClientSide\bin\Debug\net6.0\ClientSide.dll
+S:\SocketPractice\CSharpSocket\ClientSide\bin\Debug\net6.0\ClientSide.pdb
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.csproj.AssemblyReference.cache
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.AssemblyInfoInputs.cache
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.AssemblyInfo.cs
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.csproj.CoreCompileInputs.cache
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.dll
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\refint\ClientSide.dll
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.pdb
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ClientSide.genruntimeconfig.cache
+S:\SocketPractice\CSharpSocket\ClientSide\obj\Debug\net6.0\ref\ClientSide.dll
