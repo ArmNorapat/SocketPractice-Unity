@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\ServerSide\\ServerSide.csproj": {}
+    "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\TcpClientSide\\TcpClientSide\\TcpClientSide\\TcpClientSide.csproj": {}
   },
   "projects": {
-    "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\ServerSide\\ServerSide.csproj": {
+    "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\TcpClientSide\\TcpClientSide\\TcpClientSide\\TcpClientSide.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\ServerSide\\ServerSide.csproj",
-        "projectName": "ServerSide",
-        "projectPath": "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\ServerSide\\ServerSide.csproj",
+        "projectUniqueName": "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\TcpClientSide\\TcpClientSide\\TcpClientSide\\TcpClientSide.csproj",
+        "projectName": "TcpClientSide",
+        "projectPath": "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\TcpClientSide\\TcpClientSide\\TcpClientSide\\TcpClientSide.csproj",
         "packagesPath": "C:\\Users\\new_a\\.nuget\\packages\\",
-        "outputPath": "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\ServerSide\\obj\\",
+        "outputPath": "S:\\SocketPractice-Unity-CSharp\\CSharpSocket\\TcpClientSide\\TcpClientSide\\TcpClientSide\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",

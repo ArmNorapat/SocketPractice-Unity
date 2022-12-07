@@ -1,0 +1,16 @@
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\bin\Debug\net5.0\TcpClientSide.exe
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\bin\Debug\net5.0\TcpClientSide.deps.json
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\bin\Debug\net5.0\TcpClientSide.runtimeconfig.json
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\bin\Debug\net5.0\TcpClientSide.runtimeconfig.dev.json
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\bin\Debug\net5.0\TcpClientSide.dll
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\bin\Debug\net5.0\TcpClientSide.pdb
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.csproj.AssemblyReference.cache
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.GeneratedMSBuildEditorConfig.editorconfig
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.AssemblyInfoInputs.cache
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.AssemblyInfo.cs
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.csproj.CoreCompileInputs.cache
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.dll
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\refint\TcpClientSide.dll
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.pdb
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\TcpClientSide.genruntimeconfig.cache
+S:\SocketPractice-Unity-CSharp\CSharpSocket\TcpClientSide\TcpClientSide\TcpClientSide\obj\Debug\net5.0\ref\TcpClientSide.dll
